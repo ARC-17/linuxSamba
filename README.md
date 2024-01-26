@@ -1,0 +1,2 @@
+# linuxSamba
+Linux Samba configuração.
